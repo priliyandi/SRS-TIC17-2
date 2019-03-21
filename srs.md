@@ -33,7 +33,7 @@
 2.	Karyawan sebagai tempat melayani keinginan konsumen maupun dalam mendesain gambar.<br>
 3.	Pemilik sebagai pemilik distro yang biasanya sudah memiliki konveksi sendiri untuk membuat berbagai produk-produk yang dipasarkan di distro tersebut.</ol><br>
  <br>
- 
+
 **1.3**	**Definisi, akronim, singkatan** <br>
 		Adapun definisi dari dokumen tersebut adalah :<br>
 		<table>
@@ -102,7 +102,7 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 <center><img src="Gambar/usecase_pemilik.png" width="250" height="250"></center>
 **2.1.1.2** **Use Cases Karyawan**<br>
 <center><img src="Gambar/usecase_karyawan.png" width="250" height="250"></center>
-	
+
 **2.1.1.3**	**Use Cases Admin**<br>
 <center><img src="Gambar/usecase_admin.png" width="250" height="250"></center>
 
@@ -124,11 +124,62 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 •	Corel Draw X7<br>
 •	Database Mysql<br>
 •	Balsamiq Mockups 3<br>
-•	Sublime Text 3<br>
-
+•	Sublime Text 3<br><br>
 
 **2.1.5** **Antarmuka komunikasi**<br> 
 •	Paket Data<br>
 •	Wifi<br>
 •	Modem<br>
 •	Smartphone<br>
+
+2.1.6** **Batasan-batasan memori**<br>
+•	RAM yang kami gunakan adalah minimal 4 gb.<br>
+•	Memori yang dibutuhkan aplikasi minimal 50 mb.<br>
+
+**2.1.7** **Operasi-operasi**<br>
+•	Input data karyawan<br>
+•	Input data absensi<br>
+•	Input data gaji karyawan<br>
+•	Input data pekerjaan<br>
+•	Update data admin<br>
+•	Update data karyawan<br>
+•	Update data absensi<br>
+•	Update data gaji karyawan<br>
+•	Tampilan informasi karyawan<br>
+•	Tampilan struk gaji karyawan<br>
+•	Laporan Absensi<br>
+•	Laporan rekap gaji<br>
+
+**2.1.8** **Kebutuhan-kebutuhan dalam tahapan adaptasi**<br>
+
+<ol>
+Kebutuhan adaptasi yang diperlukan pada saat pengembangan aplikasi dengan menggunakan fungsi update data agar memudahkan admin dalam mengkoreksi pengetikan yang salah.
+</ol>
+
+**2.2** **Fungsi-fungsi produk**<br>
+
+<ol>
+•	Memudahkan proses absensi karyawan.<br>
+•	Memudahkan dalam pembuatan laporan absensi, laporan struk gaji, dan laporan rekap gaji karyawan<br>
+•	Memberi tahu karyawan tentang informasi data karyawan dan informasi gaji karyawan.<br>
+•	Menambah data karyawan, data absensi, dan data gaji karyawan.<br>
+•	Memudahkan pemilik kafka konveksi dalam melihat laporan rekap gaji, laporan absensi, dan laporan data karyawan.<br>
+</ol>
+
+**2.3** **Karakteristik pengguna**<br>
+
+<ol>
+•	Pengguna mampu membaca dan menulis.<br>
+•	Pengguna mengerti cara menggunakan smartphone dengan sistem operasi android.<br>
+•	Pengguna mengerti cara menggunakan PC dengan sistem operasi setidaknya windows.<br>
+•	Mengerti cara menggunakan browser pada PC.<br>
+</ol>
+
+**2.4** **Batasan-batasan**<br>
+
+<ol>
+•	Berjalan pada platform android dan website<br>
+•	Sementara ini aplikasi ini hanya untuk Kafka Konveksi<br>
+•	Aplikasi ini tidak untuk layanan pemesanan<br>
+</ol>
+
