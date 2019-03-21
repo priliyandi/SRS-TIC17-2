@@ -1,29 +1,26 @@
+<p align="center"><font size="5"><b>Software Requirements Specifications</b></font><br>
+"Sistem Informasi Absensi dan Penggajian Kafka Konveksi"</p>
 
-<font size="5"><b><center>SOFTWARE REQUIREMENTS SPECIFICATIONS </center></b></font><br>
-
-<center>"Sistem Informasi Absensi dan Penggajian Kafka Konveksi"</center><br>
-
-<center><img src="Gambar/POLINDRA.png" width="250" height="250"></center>
+<p align="center"><img src="Gambar/POLINDRA.png" width="250" height="250"></p>
 
 <br>
 
-<center>
+<p align="center">
     <b><font size="4">Kelompok 2:</font></b><br>
     1. Priliyandi (1703073) <br>
     2. Riyanwar Setiadi (1703087)<br>
     3. Setyo Abiansyah (1703071)<br>
     4. Uum Khumaeroh (1703084)
-</center><br>
-
-<center><font size="3">Kelas D3TI2C</font></center>
-
-<br>
+</p>
+<center><font size="3"><p align="center">Kelas D3TI2C</p></font></center>
 
 <br>
 
-<center><b><font size="5">D3 TEKNIK INFORMATIKA</font></b><br>
+<br>
+
+<p align="center"><b><font size="5">D3 TEKNIK INFORMATIKA</font></b><br>
 <b><font size="3">POLITEKNIK NEGERI INDRAMAYU</font></b><br>
-<b><font size="3">2019</font></b></center>
+<b><font size="3">2019</font></b></p>
 
 **1.** **Pendahuluan** <br>
 	**1.1**	**Tujuan** <br>
@@ -94,3 +91,44 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 
 **BAB IV** berisikan tentang uraian mengenai informasi pendukung dalam pembuatan proyek Sistem Informasi Absensi dan Penggajian di Kafka Konveksi.<br></ol>
 
+**2.** **Gambaran Umum**<br>
+<ol>Kafka merupakan sebuah perusahaan konvenksi dengan karyawan yang cukup banyak. Oleh karena itu, sistem absen dan penggajian merupakan hal yang sangat pokok pada kegiatan financial sebuah perusahaan karena hal tersebut sangat berpengaruh kepada kinerja para pegawai yang setiap hari melakukan aktifitas. Sistem penggajian menyajikan cara-cara penggajian pegawai secara akurat, menghasilkan laporan-laporan yang diperlukan dan menyajikan kebutuhan informasi kepada manajemen. Adapun kendala yang dihadapi di Kafka konveksi yaitu absensi dan penggajian yang masih dilakukan secara manual masih berbentuk arsip sehingga memperlambat dalam proses pencarian, penghitungan dan proses pembuatan laporan penggajian. oleh karena itu, akan dirancang sebuah sistem informasi absensi dan  penggajian. Antara lain meliputi sistem absensi karyawan, sistem penghitungan gaji dan berbagai attributnya seperti lembur, cuti, potongan dan sebagainya secara terotomatisasi. Selain itu sistem juga mampu membuat berbagai laporan baik yang ditujukan untuk karyawan seperti slip gaji dan laporan yang ditujukan untuk direktur seperti laporan data karyawan, laporan absensi karyawan, dan laporan gaji karyawan secara terotomatisasi dimana system informasi tersebut dibuat dengan Framework Laravel dan Android.<br></ol>
+
+**2.1** **Perspektif produk**<br>
+<ol>Sistem Informasi Absensi dan Penggajian Karyawan di Kafka Konveksi adalah aplikasi yang digunakan untuk melakukan absensi dan cetak struk gaji melalui mobile yang sebelumnya menggunakan metode manual dengan menulis struk gajinya. Kemudian Sistem Informasi Absensi dan Penggajian Karyawan di Kafka Konveksi juga dapat melakukan perhitungan gaji karyawan<br></ol>
+
+**2.1.1** **Antarmuka Sistem**<br>
+**2.1.1.1**	**Use Cases Pemilik**<br>
+<center><img src="Gambar/usecase_pemilik.png" width="250" height="250"></center>
+**2.1.1.2** **Use Cases Karyawan**<br>
+<center><img src="Gambar/usecase_karyawan.png" width="250" height="250"></center>
+	
+**2.1.1.3**	**Use Cases Admin**<br>
+<center><img src="Gambar/usecase_admin.png" width="250" height="250"></center>
+
+**2.1.2** **Antarmuka pengguna**<br>
+<ol>Sistem Informasi Absensi dan Penggajian Karyawan di Kafka Konveksi menggunakan antarmuka berbasis mobile dan website. Dimana antarmuka mobile digunakan untuk karyawan sedangkan antarmuka website digunakan oleh admin.<br></ol>
+
+**2.1.3** **Antarmuka perangkat keras**<br>
+•	Laptop<br>
+•	Processor Core i3 or higher<br>
+•	Penyimpanan(Hardisk) Minimal 4 GB free space<br>
+•	Smartphone minimal android Jelly Bean or higher<br>
+•	Monitor resolusi 1240 x 768 colors 5<br>
+•	Keyboard dan mouse compatible with windows<br>
+
+**2.1.4** **Antarmuka perangkat lunak**<br>
+<ol>Perangkat lunak yang dibutuhkan untuk aplikasi ini yaitu :<br></ol>
+•	Windows 7 or higher<br>
+•	Android Studio<br>
+•	Corel Draw X7<br>
+•	Database Mysql<br>
+•	Balsamiq Mockups 3<br>
+•	Sublime Text 3<br>
+
+
+**2.1.5** **Antarmuka komunikasi**<br> 
+•	Paket Data<br>
+•	Wifi<br>
+•	Modem<br>
+•	Smartphone<br>
