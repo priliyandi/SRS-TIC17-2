@@ -183,3 +183,31 @@ Kebutuhan adaptasi yang diperlukan pada saat pengembangan aplikasi dengan menggu
 •	Aplikasi ini tidak untuk layanan pemesanan<br>
 </ol>
 
+
+**2.5** **Asumsi-asumsi dan ketergantungan / keterkaitan**<br>
+<ol>Sistem Informasi Absensi dan Penggajian Karyawan di Kafka Konveksi ini dapat dikembangkan lagi dengan menambah banyak perusahaan konveksi, dan penambahan super admin untuk konfirmasi perusahaan konveksi mana saja yang boleh menggunakan aplikasi ini. Sehingga aplikasi ini dapat digunakan oleh banyak perusahaan konveksi yang ingin menggunakan aplikasi ini.
+</ol>
+
+**2.6** **Kebutuhan-kebutuhan penyeimbang**<br>
+	•	Customer Requirements <br>
+<ol>Customer Requirements adalah analisis yang dilakukan terhadap pelanggan agar dapat mengetahui apa saja kebutuhan pelanggan sehingga pengembang dapat membuat sistem yang sesuai dengan kebutuhan pelanggan.<br></ol>
+•	Detil Requirements<br>
+<ol>Detil Requirements adalah suatu analisis yang terdiri dari properti dan fungsionalitas spesifik yang diekspresikan dalam bentuk yang detail<br></ol>
+
+**3.** **Kebutuhan lain yang spesifik**<br>
+	
+**3.1** **Performa**<br>
+•	Berjalan pada system operasi minimal android lollipop. <br>
+•	Respon program kurang 30 detik. <br>
+•	Berjalan pada browser apapun.<br></ol>
+
+**3.2** **Keamanan Aplikasi** <br>
+<ol>Validasi username dan password harus sesuai dengan yang didaftarkan sehingga tidak terjadi kesalahan login pada Sistem Informasi Absensi dan Penggajian Karyawan di Kafka Konveksi.
+</ol>
+
+**4.** **Informasi Pendukung**<br>
+<ol>
+		1. Informasi permasalahan yang sedang di alami<br>
+		2. Informasi Perusahaan<br>
+		3. Informasi sistem yang ada di perusahaan yang terkait dengan permasalahan yang diambil<br>
+	</ol>
