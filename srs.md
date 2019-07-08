@@ -211,3 +211,8 @@ Kebutuhan adaptasi yang diperlukan pada saat pengembangan aplikasi dengan menggu
 		2. Informasi Perusahaan<br>
 		3. Informasi sistem yang ada di perusahaan yang terkait dengan permasalahan yang diambil<br>
 	</ol>
+
+
+
+
+LATIHAN BARU
